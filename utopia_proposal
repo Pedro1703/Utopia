@@ -1,0 +1,118 @@
+### Grant Proposal: Integrating Gnosis Safe for Secure and Decentralized Media Operations with Utopia
+
+**Project Title:** Enhancing Utopia: Leveraging Gnosis Safe for Secure and Decentralized Media Management  
+**Applicant:** Futuria DAO  
+**Funding Request:** $90,000 USD
+
+---
+
+### Project Overview
+
+#### What We Want to Build
+We propose to enhance Utopia, our open-source technology stack designed for independent media, by integrating Gnosis Safe to secure digital assets and manage decentralized finance (DeFi) operations. Utopia, already equipped with IPFS for decentralized storage, will utilize Gnosis Safe to ensure secure fund management, paywall protection, and operational security for media companies. Our project will focus on creating custom modules and integrations with Gnosis Safe that cater specifically to the needs of media organizations operating in decentralized environments.
+
+**Key Features:**
+- **Custom Gnosis Safe Modules for Media:** Development of tailored modules for Gnosis Safe that manage subscriptions, paywalls, and media licensing payments.
+- **Multi-Signature Security for Content Distribution:** Implementation of multi-signature setups for secure and transparent decision-making in media content publishing and distribution.
+- **DeFi Integration for Media Funding:** Integrate Gnosis Safe with decentralized finance (DeFi) tools to enable media companies to securely manage crowdfunding, donations, and other funding mechanisms.
+
+#### Why We Want to Build It
+Independent media organizations are increasingly vulnerable to censorship and financial instability. By integrating Gnosis Safe into Utopia, we aim to provide these organizations with a secure and decentralized solution to manage their digital assets and financial operations. This integration will empower independent media to maintain operational autonomy, protect their financial resources, and build resilience against external pressures.
+
+Gnosis Safe’s robust multi-signature functionality is particularly well-suited for media companies that require secure, collaborative decision-making processes, especially in environments where censorship or financial threats are prevalent.
+
+---
+
+### Project Goals
+- **Enhance Financial Security:** Implement Gnosis Safe as the primary tool for managing financial assets, ensuring secure handling of funds related to subscriptions, donations, and media licensing.
+- **Promote Decentralized Governance:** Develop and deploy multi-signature governance structures for media content distribution and editorial decision-making.
+- **Increase Adoption of Gnosis Safe:** Showcase the utility of Gnosis Safe in a new domain by integrating it into media operations, potentially expanding its adoption within the media industry.
+- **Expand DeFi Capabilities for Media:** Enable media companies to access decentralized funding options securely, integrating Gnosis Safe with existing DeFi protocols to streamline these processes.
+
+---
+
+### Detailed Technical Description
+
+#### Custom Gnosis Safe Modules
+**Objective:** Develop modules within Gnosis Safe specifically designed for media operations.  
+**Implementation Details:**
+- Create a subscription management module that handles recurring payments and integrates with existing Utopia paywall technology.
+- Implement a donation management module that leverages Gnosis Safe’s multi-signature capabilities to securely manage and distribute donated funds.
+
+#### Multi-Signature Security for Content Distribution
+**Objective:** Leverage Gnosis Safe’s multi-signature functionality to create secure governance structures for content distribution and decision-making.  
+**Implementation Details:**
+- Set up multi-signature wallets for editorial teams, ensuring that publishing decisions require consensus among key stakeholders.
+- Develop a user-friendly interface within Utopia for managing and monitoring multi-signature transactions related to content publication.
+
+#### DeFi Integration for Media Funding
+**Objective:** Integrate Gnosis Safe with DeFi protocols to provide secure, decentralized funding mechanisms for media companies.  
+**Implementation Details:**
+- Develop an interface within Utopia that connects Gnosis Safe to DeFi protocols for crowdfunding, enabling media organizations to raise funds securely.
+- Integrate existing DeFi tools into Gnosis Safe to manage decentralized loans, staking, and yield farming specifically tailored to media operations.
+
+---
+
+### Schedule and Milestones
+
+**Phase 1: Planning and Technical Design (Months 1-2)**
+- Finalize technical specifications for Gnosis Safe integration.
+- Design custom modules and multi-signature setups tailored to media needs.
+
+**Phase 2: Module Development and Integration (Months 3-6)**
+- Develop and test custom Gnosis Safe modules for subscription and donation management.
+- Implement multi-signature setups and integrate them into Utopia.
+
+**Phase 3: DeFi Integration and Testing (Months 7-9)**
+- Integrate DeFi tools into Gnosis Safe and test secure funding mechanisms.
+- Conduct security audits and usability testing with media partners.
+
+**Phase 4: Deployment and Community Engagement (Months 10-12)**
+- Deploy the updated Utopia platform with Gnosis Safe integration.
+- Launch a campaign to promote the new capabilities to independent media organizations.
+- Provide ongoing support and gather feedback for future iterations.
+
+---
+
+### Funding Breakdown
+
+- **Development and Integration:** $55,000
+  - Custom Gnosis Safe module development: $25,000
+  - Multi-signature setup and integration: $20,000
+  - DeFi tool integration: $10,000
+
+- **User Experience and Documentation:** $20,000
+  - UI/UX enhancements for the new integrations: $15,000
+  - Documentation and user guides: $5,000
+
+- **Outreach and Adoption Campaign:** $10,000
+  - Marketing and community engagement: $7,000
+  - Training sessions and workshops: $3,000
+
+- **Contingency Fund:** $5,000
+
+---
+
+### Team and Expertise
+
+Futuria DAO consists of experienced developers, blockchain experts, and media professionals. Our team has successfully developed and deployed Utopia, a platform currently supporting *la diaria*, a major Uruguayan media outlet. We are committed to enhancing the decentralized media landscape and have the technical expertise to integrate advanced blockchain solutions like Gnosis Safe into Utopia.
+Utopia's github can be reviewed here: https://github.com/ladiaria/
+
+---
+
+### Conclusion
+
+Integrating Gnosis Safe into Utopia aligns with the Gnosis Ecosystem Fund’s mission to foster the adoption of decentralized applications. This project will not only enhance the security and financial autonomy of independent media but also expand the utility of Gnosis Safe into new domains. We are eager to collaborate with Gnosis to drive this initiative forward and contribute to the decentralized future of media.
+
+---
+
+### Contact Information
+
+**Futuria DAO**  
+Website: [futuria.media](https://futuria.media)  
+Email: [contact@futuria.media](mailto:contact@futuria.media)
+
+**Utopia**  
+Website: [utopia.ladiaria.com.uy](https://utopia.ladiaria.com.uy)  
+Email: [support@utopia.media](mailto:support@utopia.media)
+
